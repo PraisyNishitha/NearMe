@@ -164,15 +164,14 @@ star.html
 </p>
 </body>
 </html>
-
+```
 
 ## OUTPUT
-Screenshot 2024-11-25 094205.png
-Screenshot 2024-11-25 094220.png
-Screenshot 2024-11-25 094233.png
-Screenshot 2024-11-25 094250.png
-Screenshot 2024-11-25 094305.png
-screenshot 2024-11-25 094148.png
-
+![alt text](<Screenshot 2024-11-25 094148.png>)
+![alt text](<Screenshot 2024-11-25 094205.png>)
+![alt text](<Screenshot 2024-11-25 094220.png>)
+![alt text](<Screenshot 2024-11-25 094233.png>)
+![alt text](<Screenshot 2024-11-25 094250.png>)
+![alt text](<Screenshot 2024-11-25 094305.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
