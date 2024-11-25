@@ -167,18 +167,12 @@ star.html
 
 
 ## OUTPUT
-
-
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094148.png
-
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094205.png
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094220.png
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094233.png
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094250.png
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 094305.png
-
-
-
+Screenshot 2024-11-25 094205.png
+Screenshot 2024-11-25 094220.png
+Screenshot 2024-11-25 094233.png
+Screenshot 2024-11-25 094250.png
+Screenshot 2024-11-25 094305.png
+screenshot 2024-11-25 094148.png
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
