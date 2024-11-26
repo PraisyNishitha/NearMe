@@ -167,11 +167,14 @@ star.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-25 094148.png>)
-![alt text](<Screenshot 2024-11-25 094205.png>)
-![alt text](<Screenshot 2024-11-25 094220.png>)
-![alt text](<Screenshot 2024-11-25 094233.png>)
-![alt text](<Screenshot 2024-11-25 094250.png>)
-![alt text](<Screenshot 2024-11-25 094305.png>)
+![alt text](praisy/mapapp/static/map.png)
+![alt text](<Screenshot (15).png>)
+![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot (17).png>)
+![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot (19).png>)
+
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
