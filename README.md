@@ -167,7 +167,7 @@ star.html
 ```
 
 ## OUTPUT
-![alt text](praisy/mapapp/static/map.png)
+![alt text](<praisy/mapapp/static/Screenshot 2024-12-02 214544.png>)
 ![alt text](<Screenshot (15).png>)
 ![alt text](<Screenshot (16).png>)
 ![alt text](<Screenshot (17).png>)
